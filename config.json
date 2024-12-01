@@ -1,0 +1,4 @@
+{
+  "app1.local:8080": "localhost:3000",
+  "app2.local:8080": "localhost:5000"
+}
